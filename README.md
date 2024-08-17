@@ -1,4 +1,5 @@
-# stellar_practice_tutorial
+![Beige Simple Elegant Personal LinkedIn Banner](https://github.com/user-attachments/assets/96471a5d-0051-4e1b-a2c9-f2caa402ed9b)
+
 
 ## Table of Contents
 
