@@ -16,6 +16,9 @@ Provide step-by-step instructions on how to install your project. For example:
 
 ```bash
 git clone https://github.com/ChielokaCode/stellar_ecommerce_project.git
+cd stella_ecommerce_project
+npm install
+npm run dev
 ```
 
 ## License
