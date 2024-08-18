@@ -16,8 +16,8 @@ This is a tutorial Repo for the Create a Tutorial Stellar Smart contract challen
 Provide step-by-step instructions on how to install your project. For example:
 
 ```bash
-git clone https://github.com/ChielokaCode/stellar_ecommerce_project.git
-cd stella_ecommerce_project
+git clone https://github.com/ChielokaCode/stellar_practice_tutorial.git
+cd stellar_practice_tutorial
 npm install
 npm run dev
 ```
